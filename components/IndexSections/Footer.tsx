@@ -90,7 +90,6 @@ export default function Footer() {
         </div>
         <div className="text-white">© 2022, Quantile LLC</div>
       </div>
-      {/* TODO Our Story tab. Add terms of service */}
     </div>
   );
 }
