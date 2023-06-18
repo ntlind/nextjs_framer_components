@@ -1,35 +1,47 @@
-# Next.js Framer Example
-
+# Next.js Framer Components
 A clone of the code behind [Quantile's website](https://quantile.app), with /public redacted.
+
 
 
 ## Custom Components
 
-This template contains a few custom components that I enjoy using:
+This template contains a few custom components that I've used on multiple projects:
+
+
 
 ### Animated, responsive hamburger menu
-![Animated hamburger menu](hamburger_menu.gif)
+![Animated hamburger menu](https://github.com/ntlind/quantile_app_website/blob/main/readme_vids/hamburger_menu.gif)
+
 
 ### Markdown-to-HTML generation with sidebar table-of-contents
-![Markdown generation with TOC](markdown_toc.gif)
+![Markdown generation with TOC](https://github.com/ntlind/quantile_app_website/blob/main/readme_vids/markdown_toc.gif)
+
+
 
 ### Canvas backgrounds that draw themselves over time
-![Canvas backgrounds](canvas_bg.gif)
+![Canvas backgrounds](https://github.com/ntlind/quantile_app_website/blob/main/readme_vids/canvas_bg.gif)
+
+
 
 ### [Framer Motion](https://www.framer.com/motion/) text transitions (e.g., slide-in)
-![Slide-in animation](framer.gif)
+![Slide-in animation](https://github.com/ntlind/quantile_app_website/blob/main/readme_vids/framer.gif)
+
+
 
 ### Calendly Integrations
-![Calendly's widget](calendly.gif)
+![Calendly's widget](https://github.com/ntlind/quantile_app_website/blob/main/readme_vids/calendly.gif)
+
+
 
 ### Video player with play-button overlay
-![Video overlay](video.gif)
+![Video overlay](https://github.com/ntlind/quantile_app_website/blob/main/readme_vids/video.gif)
+
+
 
 ### Firebase Integrations to login via Google
-![Firebase screen](firebase.gif)
+![Firebase screen](https://github.com/ntlind/quantile_app_website/blob/main/readme_vids/firebase.gif)
 
 
-### Client lists that move as you scroll
 
 
 ## Getting Started
